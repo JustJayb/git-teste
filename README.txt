@@ -5,3 +5,4 @@ Aprendendo a baixar atualizações com git pull
 Alteração feita pelo Git Bash
 Praticando Git
 Alteração feita localmente
+Alteração feita remotamente
