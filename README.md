@@ -12,3 +12,8 @@ Teste
 ```Bash
 git --version 
 ```
+
+- Como criar uma nova branch e Já usar ela
+```Bash
+git switch -c "nome da brach"
+```
