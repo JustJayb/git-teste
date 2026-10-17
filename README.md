@@ -8,3 +8,7 @@ Alteração feita localmente
 Alteração feita remotamente
 Teste
 
+- Como verificar a versão do git
+```Bash
+git --version 
+```
